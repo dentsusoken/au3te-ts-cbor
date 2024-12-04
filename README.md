@@ -1,3 +1,3 @@
-# 開発者向けのリンク集
+# au3te-ts-cbor
 
-[Gitの利用方法とCIのセットアップガイド](https://esq365.sharepoint.com/sites/isid-scm/SitePages/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%82%92%E5%88%9D%E3%82%81%E3%82%8B%E5%89%8D%E3%81%AB.aspx)
+au3te-ts-cborは、CBOR (Concise Binary Object Representation)、 COSE (CBOR Object Signing and Encryption) CWT (CBOR Web Token)、mdoc (ISO/IEC 18013-5:2021)を[OID4VCI](https://openid.github.io/OpenID4VCI/openid-4-verifiable-credential-issuance-wg-draft.html)で、使うためのTypeScriptのライブラリです。
